@@ -1,0 +1,7 @@
+#endas.kiri {
+    transform: scaleX(-1) translateX(50px);
+}
+
+body {
+    background-color: pink;
+}
